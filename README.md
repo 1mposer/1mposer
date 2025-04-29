@@ -28,6 +28,5 @@ I’m a UAE-based builder, founder of Tabeq (https://www.tabeq.com), and a publi
 ```ts
 Frontend:  React, HTML, CSS, JS  
 Backend:   Firebase, Node.js  
-Automation: n8n, Google Apps Script  
-AI Tools:  Gemini 2.5, Cursor, GPT-based agents  
+Automation:   n8n, Google Apps Script   
 Other:     Google Sheets (as DB), Git,
