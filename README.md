@@ -1,30 +1,30 @@
 # Hello, I'm 1mposer 
 
-I’m a UAE-based builder, founder of [Tabeq](https://www.tabeq.com), and a public relations student who pivoted into tech by **building instead of waiting**.
+I’m a UAE-based builder, founder of Tabeq (https://www.tabeq.com), and a public relations student who pivoted into tech.
 
-### 🧠 What I Do
+###  What I Do
 
-- 🛠️ I build **real-world software tools** using Firebase, React, Node.js, and AI copilots like Gemini 2.5.
-- 🧩 I’m learning full-stack development by actually shipping products—not just tutorials.
-- ⚡ I use tools like **n8n** and **Cursor** to move fast, automate workflows, and experiment with new ideas.
-- 💼 I’m also an Affiliate Marketing Executive at [Deriv](https://www.deriv.com), automating lead funnels and helping expand our Saudi partner network.
+-  building **real-world software tools** using Firebase, React, Node.js.
+-  learning full-stack development by shipping products, not just tutorials.
+-  I use tools like **n8n** and **Cursor** to move fast, automate workflows, and experiment with new ideas.
+-  I’m also an Affiliate Marketing Executive at [Deriv](https://www.deriv.com), automating lead funnels and helping expand our Saudi partner network.
 
 ---
 
-### 🚀 Upcoming projects
+###  Upcoming projects
 
 - **QuickGPT** – Chrome extension that explains code in plain English. For dev learners, by a dev learner.  
-  ⏳ *Demo incoming*
+   *Demo incoming*
 
 - **Ricochet Membership System** – A Firebase-based customer management system with ID printing & admin UI.  
-  ✅ *Deployed for a local business in Dubai*
+   *Deployed for a local business in Dubai*
 
 - **Tabeq.com** – My digital base + project hub.  
-  🔗 [Visit Tabeq](https://www.tabeq.com)
+   [Visit Tabeq](https://www.tabeq.com)
 
 ---
 
-### 📚 Tech I’m Working With
+###  Tech I’m Working With
 ```ts
 Frontend:  React, HTML, CSS, JS  
 Backend:   Firebase, Node.js  
