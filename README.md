@@ -6,7 +6,7 @@ I’m a UAE-based builder, founder of Tabeq (https://www.tabeq.com), and a publi
 
 -  building **real-world software tools** using Firebase, React, Node.js.
 -  learning full-stack development by shipping products, not just tutorials.
--  I use tools like **n8n** and **Cursor** to move fast, automate workflows, and experiment with new ideas.
+-  I use tools like **Cursor** to move fast, automate workflows, and experiment with new ideas.
 -  I’m also an Affiliate Marketing Executive at [Deriv](https://www.deriv.com), automating lead funnels and helping expand our Saudi partner network.
 
 ---
@@ -28,5 +28,5 @@ I’m a UAE-based builder, founder of Tabeq (https://www.tabeq.com), and a publi
 ```ts
 Frontend:  React, HTML, CSS, JS  
 Backend:   Firebase, Node.js  
-Automation:   n8n, Google Apps Script   
+Automation:   N8N, Google Apps Script   
 Other:     Google Sheets (as DB), Git,
